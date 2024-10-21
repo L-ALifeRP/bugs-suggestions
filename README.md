@@ -1,11 +1,12 @@
 # bugs-suggestion
-Bienvenue sur le github publique de L.ALifeRP.
+Bienvenue sur le GitHub public de L.ALifeRP.
+
 ## Comment signaler un bug
 
 Merci de contribuer à l'amélioration de L.ALifeRP. Pour signaler un bug, veuillez suivre les étapes ci-dessous :
 
 1. **Accédez à la section des Issues** : Cliquez sur l'onglet "Issues" en haut de cette page.
-2. **Créer une nouvelle Issue** : Cliquez sur le bouton vert "New issue".
+2. **Créez une nouvelle Issue** : Cliquez sur le bouton vert "New issue".
 3. **Remplissez le formulaire** :
     - **Titre** : Donnez un titre clair et concis à votre bug.
     - **Description** : Décrivez le bug en détail. Incluez des informations telles que :
@@ -13,7 +14,7 @@ Merci de contribuer à l'amélioration de L.ALifeRP. Pour signaler un bug, veuil
         - Ce que vous attendiez de voir
         - Ce que vous avez vu à la place
         - Toute capture d'écran ou log pertinent
-4. **Soumettre l'Issue** : Cliquez sur "Submit new issue" pour envoyer votre rapport.
+4. **Soumettez l'Issue** : Cliquez sur "Submit new issue" pour envoyer votre rapport.
 
 Nous examinerons votre rapport dès que possible. Merci pour votre aide !
 
